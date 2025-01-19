@@ -1,6 +1,7 @@
 # Recursos Canarias con Mozambique
 
 1. Memorias anuales
+   - [2000-2004](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2000_2004.pdf)
    - [2008](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2008.pdf)
    - [2009](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2009.pdf)
    - [2010](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2010.pdf)
@@ -14,4 +15,6 @@
    - [2018](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2018.pdf)
    - [2019](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2019.pdf)
    - [2020](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2020.pdf)
-   - [2021](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2021.pdf)  
+   - [2021](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2021.pdf)
+   - [2022](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2022.pdf)
+   - [2023](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2023.pdf)
