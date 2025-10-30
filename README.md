@@ -18,3 +18,4 @@
    - [2021](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2021.pdf)
    - [2022](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2022.pdf)
    - [2023](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2023.pdf)
+   - [2024](./memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2024.pdf)
